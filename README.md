@@ -1,2 +1,2 @@
 # zic-file-hosting
-My onw custom file hosting
+My own custom file hosting
